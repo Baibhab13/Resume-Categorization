@@ -98,3 +98,5 @@ if st.button("Categorize Resumes"):
         st.success("Resumes categorization and processing completed.")
     else:
         st.error("Please upload files and specify the output directory.")
+
+# baibhab sabu halchal bhala na
